@@ -1,0 +1,17 @@
+# Excel temporary files
+~$*.xls*
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Build
+bin/
+obj/
