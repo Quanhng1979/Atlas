@@ -50,3 +50,20 @@ Atlas v0.0.1
 Current Phase:
 
 Repository Bootstrap
+# Atlas
+
+> Personal Life Operating System built with Excel + VBA.
+
+## Vision
+
+Atlas is designed as a modular Life Operating System.
+
+## Current Version
+
+v0.0.3
+
+## Development Status
+
+Bootstrap Complete
+
+Foundation Next
